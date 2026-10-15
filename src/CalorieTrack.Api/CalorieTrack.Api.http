@@ -1,0 +1,6 @@
+@CalorieTrack.Api_HostAddress = http://localhost:5063
+
+GET {{CalorieTrack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
